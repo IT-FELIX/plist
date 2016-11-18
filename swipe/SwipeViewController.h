@@ -13,3 +13,4 @@
 @property (nonatomic,retain)UISwipeGestureRecognizer
                              *s1,*s2,*s3,*s4;
 @end
+//
